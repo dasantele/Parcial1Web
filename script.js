@@ -25,6 +25,14 @@
         console.log(carrito)
     }
 
+    function cancelarOrden() {
+        carrito=[]
+        
+        tabla = document.getElementById("carrito")
+        tabla.innerHTML=""
+
+    }
+
     function crearCarrito()
     {
         var compras = document.getElementById("compras")
