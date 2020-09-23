@@ -11,14 +11,29 @@
 }
 
 .jumbotron {
-    padding:70px 30px 10px 30px;
+    padding:40px 30px 10px 30px;
     margin:0px auto;
     background-color: white;
     color:floralwhite;
 }
 
+.logo-titulo {
+    font-family: 'Satisfy', cursive;
+    color: black;
+    font-size: xx-large;
+}
+
+.txt-1 {
+    color: black;
+}
+
+.menu-bar {
+    color: white;
+}
+
 .navbar-dark { 
     background-color: gray;
+    padding:20px 30px 20px 30px;
 }
 
 main{
